@@ -9,7 +9,6 @@
 - Manipulação de Strings
 - Estruturas Condicionais e de Repetição
 
-###  [Sistema Bancário](https://github.com/JhonGb26/target_estagio/blob/main/test4.py)
 
 ## Nessa segunda parte avancei no Python usando noções mais avançadas
 
@@ -17,4 +16,4 @@
 - Lista
 - Biblioteca 
 
-###  [Sistema Bancário Upper](https://github.com/JhonGb26/target_estagio/blob/main/test4.py)
+###  [Sistema Bancário Upper](https://github.com/JhonGb26/projeto-bancario-python/blob/master/desafio.py)
